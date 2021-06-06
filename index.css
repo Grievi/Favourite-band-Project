@@ -1,6 +1,8 @@
 * {
-  background-color: rgb(211, 209, 197);
-  padding: 
+  background-color: rgb(211, 206, 179);
+  padding: 0px;
+  margin:0px
+  
 }
 p{
   font-family: Arial, Helvetica, sans-serif ;
@@ -9,6 +11,8 @@ p{
   background-clip:content-box;
   border: 0px;
   text-align: unset;
+  display: block;
+  
   
   
 }
@@ -38,10 +42,16 @@ h1,h2,h3 {
 img {
   padding; 0px;
   margin: 0px;
+  box-sizing: border box
   border style; hidden;
-
 
 }
 h4 {
   text-align: center;
+}
+Head {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  border-style:hidden
 }
