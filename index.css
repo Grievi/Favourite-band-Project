@@ -1,5 +1,5 @@
 * {
-  background-color: rgb(161, 167, 167);
+  background-color: rgb(211, 209, 197);
   padding: 
 }
 p{
@@ -7,7 +7,7 @@ p{
   font-weight: 400;
   padding: 0px;
   background-clip:content-box;
-  border: 1000px;
+  border: 0px;
   text-align: unset;
   
   
@@ -27,7 +27,21 @@ h3 {
 h1 {
   padding-top: 00px;
 }
-body {
-  margin: 0px ;
+h1,h2,h3,p,ul {
+  margin: 0% 20% ;
   padding: 0px;
+  background-color: rgb(233, 225, 214);
+}
+h1,h2,h3 {
+  padding: 5px; color: crimson; 
+}
+img {
+  padding; 0px;
+  margin: 0px;
+  border style; hidden;
+
+
+}
+h4 {
+  text-align: center;
 }
