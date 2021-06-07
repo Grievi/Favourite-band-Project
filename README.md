@@ -6,6 +6,6 @@ Morgan Heritage is one of the most outstanding music bands in the word for nearl
 ## Technologies Used
 HTML and CSS
 ## Support and contact details
-It would be cool to socialize and make new friends so Dm me @Okushw_Wear_n_trends on instragram oron facebook @Grievin okush
+It would be cool to socialize and make new friends so Dm me @Okushw_Wear_n_trends on instragram or on facebook @Grievin okush
 
   
