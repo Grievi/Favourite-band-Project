@@ -4,6 +4,7 @@
   margin:0px
   
 }
+
 p{
   font-family: Arial, Helvetica, sans-serif ;
   font-weight: 400;
@@ -54,4 +55,18 @@ Head {
   margin: 0px;
   box-sizing: border-box;
   border-style:hidden
+}
+#favourites{
+  text-align: unset;
+  background-clip: content-box;
+}
+ol{
+  text-align: left;
+  margin-left: 20%;
+
+}
+#List{
+  text-align: center;
+  font-size: 24px;
+  
 }
