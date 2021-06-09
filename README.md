@@ -8,4 +8,3 @@ HTML and CSS
 ## Support and contact details
 It would be cool to socialize and make new friends so Dm me @Okushw_Wear_n_trends on instragram or on facebook @Grievin okush
 
-  
